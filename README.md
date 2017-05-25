@@ -7,9 +7,9 @@ The program takes in entry **tetriminos** and create the **most little square in
 ## **The render**
 
 
-#### 1st example
+#### **1st example**
 
-**tetriminos inputed :**
+tetriminos inputed :
 
 ![input1](https://github.com/afanneau42/readme_ressources/blob/master/fillit/input_1.png)
 
@@ -17,7 +17,7 @@ program output :
 
 ![output1](https://github.com/afanneau42/readme_ressources/blob/master/fillit/output_1.png)
 
-#### 2nd example
+#### **2nd example**
 
 tetriminos inputed :
 
