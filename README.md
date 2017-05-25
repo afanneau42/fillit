@@ -9,16 +9,16 @@ The program takes in entry **tetriminos** and create the **most little square in
 
 #### 1st example
 
-tetriminos inputed :
+###### tetriminos inputed :
 ![input1](https://github.com/afanneau42/readme_ressources/blob/master/fillit/input_1.png)
 
-program output :
+###### program output :
 ![output1](https://github.com/afanneau42/readme_ressources/blob/master/fillit/output_1.png)
 
 #### 2nd example
 
-tetriminos inputed :
+###### tetriminos inputed :
 ![input2](https://github.com/afanneau42/readme_ressources/blob/master/fillit/input_2.png)
 
-program output :
+###### program output :
 ![output2](https://github.com/afanneau42/readme_ressources/blob/master/fillit/output_2.png)
